@@ -1,4 +1,4 @@
-## Calculator
+## Calculator [WIP]
 
 Yet another calculator like [Saturn PCB Design Toolkit](https://saturnpcb.com/pcb_toolkit/) or [KiCad PCB Calculator](https://docs.kicad.org/5.1/en/pcb_calculator/pcb_calculator.html)
 
@@ -6,4 +6,4 @@ Yet another calculator like [Saturn PCB Design Toolkit](https://saturnpcb.com/pc
 
 ### Photo:
 
-![alt text](https://github.com/anhvanthe/Maxwell_Qt/blob/master/img/calculator.PNG)
+![Alt text](img/calculator.PNG)
